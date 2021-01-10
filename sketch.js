@@ -26,7 +26,7 @@ function draw()
 
     fill("red");
     textSize(20);
-    text("Score : "+score,350,50);
+    text("Score : "+score,300,50);
 
     if(frameCount%50===0)
     {
